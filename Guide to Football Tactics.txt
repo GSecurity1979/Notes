@@ -1,20 +1,4 @@
-1. Set mentality depending on number of attackers (ST + W + AMC):
-
-a) 0 attackers = attacking = go route one
-b) 1 attackers = control = direct passing
-c) 2 attackers = standard = mixed passing 
-d) 3 attackers = counter = shorter passing
-e) 4 attackers = defensive = shorter passing + retain possession
-
-2. Set fluidity on depending on horizontal lines missing in formation (don't forget SW):
-
-a) 4 lines missing = very fluid = press much more
-b) 3 line missing = fluid = press more
-c) 2 lines missing = flexible = standard pressing
-d) 1 lines missing = structured = press less
-e) 0 lines missing = highly structured = press much less
-
-3. Fluidity meaning:
+1. Fluidity meaning:
 
 a) highly structured = players play assigned roles
 b) structured = players play assigned roles and duties
@@ -22,7 +6,7 @@ c) flexible = players play assigned duties
 d) fluid = players can bypass role and duty
 e) very fluid = players can bypass role and duty and mentality
 
-4. Set support duties depending on fluidity (lower figure if 3 CB's)
+2. Set support duties depending on fluidity (lower figure if 3 CB's)
 
 a) highly structured = 0-1 support duties
 b) structured = 2-3 support duties
@@ -30,7 +14,7 @@ c) flexible = 4-5 support duties
 d) fluid = 6-7 support duties
 e) very fluid = 8-9 support duties
 
-5. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot. 
+3. Changing fluidity and mentality is needed to make a specific part of the pitch your strong spot.
 However, the opposite will be your weak spot. This is useful if you want a group of players or a single player to excel for selling:
 
 a) very fluid = right
@@ -47,20 +31,17 @@ e) counter = MC
 f) defensive = AMC
 g) contain = ST
 
-6) Notes
+4) Notes
 
-a) Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
-b) You can change pressing instead of fluidity, and passing instead of mentality. Or change all 3 options (like instead of fluid opt for flexible + press more).
-c) Defense is played so you are keeping opponent away from your goal and passing in opponent third. Offense is waiting in your half and going counter and push all men forward from deep.
-d) Players will get injured or get cards if mentality is higher then fluidity.
-e) If newly assembled team, drop fluidity so players positioning is better.
-f) If more structured, players are prone to errors but with good positioning.
-g) If more fluid, good with referee, lots of chances.
-h) More fluid and more agressive will yield better results, but will tire out your players before match is over.
-j) Playing more defensively and less fluid can make your team stronger, but can also make you a punching bag.
-k) Ideal match will always end 0:0. Meaning both teams attacked and defended perfectly.
+a) Pick formation that has your best players.
+b) Players will get injured or get cards if mentality is higher then fluidity.
+c) If newly assembled team, drop fluidity so players positioning is better.
+d) If more structured, players are prone to errors.
+e) If more fluid, good with referee, lots of chances.
+f) Ideal match will always end 0:0. Meaning both teams attacked and defended perfectly.
+g) More risk = more reward. You should play fluid control whenever you can.
 
-7) Player responsibilities
+5) Player responsibilities
 
 a) Very fluid
 
