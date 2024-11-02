@@ -7,20 +7,20 @@ Cptn skills: Everything is good, just some is more useful than others. Distance 
 
 Cptn spec: Temporal primary, strategist secondary.
 
-Cptn traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy
+Cptn traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
 
-Space and Ground Traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy
+Space and Ground Traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
 
 Ship: Any T6, preferably with 2 experimental upgrades
 
-Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy
+Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
 
 Boffs: watchers or SRO's
 
-Boff Powers: attack pattern omega, emergency power to engines, photonic officer, reverse shield polarity, aux to sif, teams, surgical strikes, 
-jam sensors, scramble sensors, gravity well, one attack upgrade and polarize hull
+Boff Powers: attack pattern omega, emergency power to engines, photonic officer, reverse shield polarity, aux to sif, teams, 
+jam sensors, gravity well, one attack upgrade and polarize hull
 
-Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse shield polarity
+Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse shield polarity, energy officers with crtd or borg
 
 Ship seating: any, for pvp you want cmdr intel
 
@@ -46,12 +46,12 @@ or bypass them. Weapons with damage over time, like agony phasers, will kill tar
 doing less dmg because 1st wep drained power.
 
 # Math
-+dmg * +bonus dmg/haste/crit severity * wpnpwr/acc/[dmg]
+dmg * speed (it is irrelevant if you have +10% dmg or + 10% bonus dmg or +10% dmg mod or +10% crit severity)
 
 # Pvp
 Pvp relies on not being targeted by using intel team, sci stealth consoles, high defense value and surgical strikes for dmg. 
-You may want to disable your enemy first with subnuke and holds. If everything fails, you can use high dmg clickies. You may want control immunity rep trait.
-Use subnuke first, then holds, any weapon boosts, then SS III.
+You may want to disable your enemy first with subnuke and holds. If everything fails, you can use high dmg clickies. Use subnuke first, then holds, any weapon boosts, then SS III.
+You may want to stack immunities from all sources.
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
@@ -92,20 +92,20 @@ Avoid EPG builds unless you are in all EPG team because taking out enemy shields
 
 Get all reps maxed out even if you don't need the gear. They will appear in your passives and you may need the traits, ship modules and respecs.
 
-Do all of R&D by doing 24h tasks. At level 15, they will give you nice traits and you'll be able to craft nice stuff.
+Do all of R&D by doing 20h tasks. At level 15, they will give you nice traits and you'll be able to craft nice stuff.
 
 Under HUD options, select maintain auto attack. Then turn off autofire on all your ship weps if you enabled it.
 
 Assimilated module + Kinetic cutting beam will give set bonus which will help with your weapon energy drain.
 
-Fleet warp core will help you in battle.
+Fleet warp core will also help with power drain.
 
 # Space Keybinds
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
 Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat.
 
 ```
-Space "FirePhasers$$+trayexecbytray 9 0$$+trayexecbytray 9 2$$+trayexecbytray 9 4$$+trayexecbytray 9 6$$+trayexecbytray 9 8$$+trayexecbytray 8 0$$+trayexecbytray 8 2$$+trayexecbytray 8 4$$+trayexecbytray 8 6$$+trayexecbytray 8 8$$+trayexecbytray 7 0$$+trayexecbytray 7 2$$+trayexecbytray 7 4$$+trayexecbytray 7 6$$+trayexecbytray 7 8$$+trayexecbytray 6 0$$+trayexecbytray 6 2$$+trayexecbytray 6 4$$+trayexecbytray 6 6$$+trayexecbytray 6 8$$+trayexecbytray 6 9$$+trayexecbytray 6 7$$+trayexecbytray 6 5$$+trayexecbytray 6 3$$+trayexecbytray 6 1$$+trayexecbytray 7 9$$+trayexecbytray 7 7$$+trayexecbytray 7 5$$+trayexecbytray 7 3$$+trayexecbytray 7 1$$+trayexecbytray 8 9$$+trayexecbytray 8 7$$+trayexecbytray 8 5$$+trayexecbytray 8 3$$+trayexecbytray 8 1$$+trayexecbytray 9 9$$+trayexecbytray 9 7$$+trayexecbytray 9 5$$+trayexecbytray 9 3$$+trayexecbytray 9 1$$FireProjectiles"
+Space "FireAll$$+trayexecbytray 9 0$$+trayexecbytray 9 2$$+trayexecbytray 9 4$$+trayexecbytray 9 6$$+trayexecbytray 9 8$$+trayexecbytray 8 0$$+trayexecbytray 8 2$$+trayexecbytray 8 4$$+trayexecbytray 8 6$$+trayexecbytray 8 8$$+trayexecbytray 7 0$$+trayexecbytray 7 2$$+trayexecbytray 7 4$$+trayexecbytray 7 6$$+trayexecbytray 7 8$$+trayexecbytray 6 0$$+trayexecbytray 6 2$$+trayexecbytray 6 4$$+trayexecbytray 6 6$$+trayexecbytray 6 8$$+trayexecbytray 6 9$$+trayexecbytray 6 7$$+trayexecbytray 6 5$$+trayexecbytray 6 3$$+trayexecbytray 6 1$$+trayexecbytray 7 9$$+trayexecbytray 7 7$$+trayexecbytray 7 5$$+trayexecbytray 7 3$$+trayexecbytray 7 1$$+trayexecbytray 8 9$$+trayexecbytray 8 7$$+trayexecbytray 8 5$$+trayexecbytray 8 3$$+trayexecbytray 8 1$$+trayexecbytray 9 9$$+trayexecbytray 9 7$$+trayexecbytray 9 5$$+trayexecbytray 9 3$$+trayexecbytray 9 1$$FireProjectiles"
 ```
 
 # Ground keybinds
