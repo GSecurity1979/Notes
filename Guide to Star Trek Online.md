@@ -37,13 +37,13 @@ Ship Power: If you use energy weps, change to number 3 power view, set power to 
 Ground gear: Romulan Imperial Navy kit + Armor, Na'kuhl weapon + shield, plasma piercing rifle (End game you want herald staff)
 
 # Dmg calc
-Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
-For example, normal beam at mark XII does 500 dmg and at xv and 75 wep power does 1k dps. If you add 5 30% +dmg consoles and 5 dmg mods (10% +dmg each), 
-that wep will do 200% more dmg, meaning 3k. If you also do surgical strikes III attack upgrade, for another 300%, it will do 6k. If you also do crit for 100%
-it will be 800% +dmg on your 1k, meaning 9k dmg. If you also do haste 100%, it will be 18k. If you get 6 weps to do all that, it will be 108k. 
-So, any single source of dmg is usually insufficient. At least get pets. Btw, their shields will stop 90-95% of your dmg. You can disable then, drain then,
-or bypass them. Weapons with damage over time, like agony phasers, will kill target faster. Weapons spend power. The moment your 2nd wep fires, it's already
-doing less dmg because 1st wep drained power.
+Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. If you increase weapon power, same. 
+Weapon rarity basically means you have more mods on your weapons. For example, normal beam at mark XII does 500 dmg and at xv and 75 wep power does 1k dps.
+If you add 5 30% +dmg consoles and 5 dmg mods (10% +dmg each), that wep will do 200% more dmg, meaning 3k. If you also do surgical strikes III attack upgrade, 
+for another 300%, it will do 6k. If you also do crit for 100% it will be 800% +dmg on your 1k, meaning 9k dmg. If you also do haste 100%, it will be 18k. 
+If you get 6 weps to do all that, it will be 108k. So, any single source of dmg is usually insufficient. At least get pets. Btw, their shields will stop 90-95% of your dmg. 
+You can disable them, drain them, or bypass them. Weapons with damage over time, like agony phasers, will kill target faster. Weapons spend power. 
+The moment your 2nd wep fires, it's already doing less dmg because 1st wep drained power.
 
 # Math
 dmg * speed (it is irrelevant if you have +10% dmg or + 10% bonus dmg or +10% dmg mod or +10% crit severity)
@@ -99,6 +99,8 @@ Under HUD options, select maintain auto attack. Then turn off autofire on all yo
 Assimilated module + Kinetic cutting beam will give set bonus which will help with your weapon energy drain.
 
 Fleet warp core will also help with power drain.
+
+Do not rely on 2.5% proc chance. Always go for stuff that is per hit.
 
 # Space Keybinds
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
