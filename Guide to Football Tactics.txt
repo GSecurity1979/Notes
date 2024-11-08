@@ -18,7 +18,7 @@ e) 0 lines missing = highly structured = press much less
 
 a) highly structured = players play assigned roles
 b) structured = players play assigned roles and duties
-c) flexible = players play assigned duties
+c) flexible = players play assigned duties, but can bypass role
 d) fluid = players can bypass role and duty
 e) very fluid = players can bypass role and duty and mentality
 
