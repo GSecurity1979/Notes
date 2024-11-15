@@ -1,18 +1,18 @@
 1. Set mentality depending on number of attackers (ST + W + AMC):
 
-a) 0 attackers = attacking = go route one
-b) 1 attackers = control = direct passing
-c) 2 attackers = standard = mixed passing
-d) 3 attackers = counter = shorter passing
-e) 4 attackers = defensive = shorter passing + retain possession
+a) 0 attackers = attacking
+b) 1 attackers = control
+c) 2 attackers = standard
+d) 3 attackers = counter
+e) 4 attackers = defensive
 
 2. Set fluidity on depending on horizontal lines missing in formation (don't forget SW):
 
-a) 4 lines missing = very fluid = press much more
-b) 3 line missing = fluid = press more
-c) 2 lines missing = flexible = standard pressing
-d) 1 lines missing = structured = press less
-e) 0 lines missing = highly structured = press much less
+a) 4 lines missing = very fluid
+b) 3 line missing = fluid
+c) 2 lines missing = flexible
+d) 1 lines missing = structured
+e) 0 lines missing = highly structured
 
 3. Fluidity meaning:
 
