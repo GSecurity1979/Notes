@@ -42,10 +42,10 @@ While I go swimming one summer, on my way back I went to buy ice cream at area o
 
 I also exibit wish to sing, so mom sends me to a mentor of some sort, but he insults me. On the way back, my behind is sore again.
 
+I go with Antun Stamać and Filip Fiala on Info 96, an IT fair in Zagreb. I end up with a tissue placed on my nose in OS/2 Warp simulator with all 3 of us inside. I don't remember neither what nor why it happened.
+
 When I turned 18, my mom paid for my drivers licence and I got a job at Croit, who sold toys. I went with company Fiat Fiorino to pick up my drivers licence. I work all day at Croit, and mom forces me to go prepare for college at 
 a nearby professors house, but I usually fall asleep tired during lessons.
-
-I go with Antun Stamać and Filip Fiala on Info 96, an IT fair in Zagreb. I end up with a tissue placed on my nose in OS/2 Warp simulator with all 3 of us inside.
 
 When I got my first sallary, me and a friend Andrej Juričin go for a drink where we meet 2 girls, Tina and Slavica. He ends up with Tina and me with Slavica and we go on concert of the Beat Fleet presenting their Ping Pong album at Baracuda beach bar.
 A week later, Slavica comes over to my apartment, and ends up accusing me of raping her, which I don't understand, since there was no rape. We stay in relationship another month and a half, then she says she needs to go to some guy if he calls her,
@@ -68,7 +68,7 @@ I get a job at hearing aids company, but I develop schizofrenia there, after whi
 
 I get schizofrenia meds but my devices are getting hacked for the next 20+ years, what I report to cops 13y later who seem to beat up Andrej, but to no effect.
 
-I learn cybersec by googling to protect myself, change roughly 20 gf's and 20 computers, and I end up bleeding from my behind once a month for the next 20y+ since I got schizo.
+I'm working mostly as a security guard and as a cab driver for a short while. I learn cybersec by googling to protect myself, change roughly 20 gf's and 20 computers, and I end up bleeding from my behind once a month for the next 20y+ since I got schizo.
 
 I meet 2 girls, Sandra Dragutin and Antonija Čurković, in Sandra I fall inlove with, but she ends up hypnoing me and raping me under hypnosis while Antonia attempts the same, but I think unsuccesfully.
 
@@ -76,4 +76,12 @@ On Iskrica, I meet a girl called Mira Čačić. She buys me a husky and I move t
 
 I return to Zadar but my dad also turns against me and ends up sleeping with Jadranka. I also suspect someone paid him to replace my dog with almost identical one. This new dog isn't healthy and doesn't like me.
 
+A waiter from Downtown bar, Ante Mitrović, wants me to nail his wife, Iva Delija, because he can't have kids. I refuse, but lose memory and see them having 2 kids on facebook, years later.
+
 My mom and my dog die, and I get family pension as 100% work unable, 70% off of my moms pension.
+
+My memories slowly start returning, bit by bit, at age of 35 I finally grasp figurative speech, as I understood everything literally till then.
+
+All in all, I got raped over 20 times, by both men and women, which I still don't remember, I believe there is a command word in my subconscious that makes me submissive when I hear it.
+
+I hear Jadranka has a daughter too, but I think the child is either my dads, or my 2nd floor neighbours. If it's mine, then I have 4 kids I'm just biological father of.
