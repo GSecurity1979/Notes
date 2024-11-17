@@ -80,10 +80,15 @@ Filip is tricking me into marrying some girl. I fail to see the bride face becau
 
 A waiter from Downtown bar, Ante Mitrović, wants me to nail his wife, Iva Delija, because he can't have kids. I refuse, but lose memory and see them having 2 kids on facebook, years later.
 
-My mom and my dog die, and I get family pension as 100% work unable, 70% off of my moms pension.
-
 My memories slowly start returning, bit by bit, at age of 35 I finally grasp figurative speech, as I understood everything literally till then.
 
-All in all, I got raped over 20 times, by both men and women, which I still don't remember, I believe there is a command word in my subconscious that makes me submissive when I hear it.
+My mom and my dog die, and I get family pension as 100% work unable, 70% off of my moms pension.
+
+All in all, I got raped over 20 times, by both men and women, which I still don't remember and I believe there is a command word in my subconscious that makes me submissive when I hear it.
 
 I hear Jadranka has a daughter too, but I think the child is either my dads, or my 2nd floor neighbours. If it's mine, then it's possible I have 4 kids I'm just biological father of.
+
+Someone seems to be breaking or pulling out my teeth from time to time, and one I day I couldn't stand up because my left knee was somehow broken. I limped for 2y after that and now I still have clicking sound but can walk normally.
+
+I give my dad half my pension, 100 eur for bills and 50 eur for tobacco and I buy everything else I need for myself, like clothes and food, but my shirts, like 6 of them seem to be missing. It also seems someone is stealing tobacco and 
+coffee capsules, and sometimes food I buy. I live with my dad in fear of ending up handicapped and raped because I can't afford a place of my own.
