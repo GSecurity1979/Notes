@@ -76,6 +76,8 @@ On Iskrica, I meet a girl called Mira Čačić. She buys me a husky and I move t
 
 I return to Zadar but my dad also turns against me and ends up sleeping with Jadranka. I also suspect someone paid him to replace my dog with almost identical one. This new dog isn't healthy and doesn't like me.
 
+Filip is tricking me into marrying some girl. I fail to see the bride face because of veo, and I think I'm just a witness. To this day I still don't know if wedding went through and if I'm married or not.
+
 A waiter from Downtown bar, Ante Mitrović, wants me to nail his wife, Iva Delija, because he can't have kids. I refuse, but lose memory and see them having 2 kids on facebook, years later.
 
 My mom and my dog die, and I get family pension as 100% work unable, 70% off of my moms pension.
@@ -84,4 +86,4 @@ My memories slowly start returning, bit by bit, at age of 35 I finally grasp fig
 
 All in all, I got raped over 20 times, by both men and women, which I still don't remember, I believe there is a command word in my subconscious that makes me submissive when I hear it.
 
-I hear Jadranka has a daughter too, but I think the child is either my dads, or my 2nd floor neighbours. If it's mine, then I have 4 kids I'm just biological father of.
+I hear Jadranka has a daughter too, but I think the child is either my dads, or my 2nd floor neighbours. If it's mine, then it's possible I have 4 kids I'm just biological father of.
