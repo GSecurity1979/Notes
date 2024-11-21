@@ -15,7 +15,7 @@ Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, crits
 
 Ship: Any T6, preferably with 2 experimental upgrades
 
-Boffs: watchers or SRO's
+Boffs: watchers or Superior Romulan Operatives
 
 Boff Powers: attack pattern beta, emergency power to engines and weapons, photonic officer, reverse shield polarity, aux to sif, teams, 
 jam sensors, gravity well, attack upgrade(s) and polarize hull
@@ -46,12 +46,16 @@ You can disable them, drain them, or bypass them. Weapons with damage over time,
 The moment your 2nd wep fires, it's already doing less dmg because 1st wep drained power.
 
 # Math
-base weapon dmg * weapon power * +dmg * +bonus dmg * attack upgrade or weapon mods * speed -target resists = resulting dmg
+base weapon dmg * weapon power * +dmg * +bonus dmg * attack upgrade or weapon mods * speed -target resists = resulting dmg (crtd is regarded as bonus dmg, but it relies on crth)
 
 # Pvp
-Pvp relies on not being targeted by using intel team, sci stealth consoles, and surgical strikes for dmg. 
+Pvp relies on not being targeted by using intel team, sci stealth consoles, and surgical strikes for dmg on a single target. 
 You may want to disable your enemy first with subnuke and holds. If everything fails, you can use high dmg clickies. Use subnuke first, then holds, any weapon boosts, then SS III.
-You may want to stack immunities from all sources.
+You may want to stack immunities from all sources. Employ hit 'n' run tactics, don't dogfight till all your powers reset.
+
+# Pve
+Pve relies on using either cannons scatter volley or fire at will because shooting multiple targets at once gives most dps. Automated protomatter and active armor hardening
+reputation traits shouls keep you alive because you will also get shot at by multiple targets.
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
@@ -65,11 +69,14 @@ Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/play
 
 # How to play
 Tanking: Tanking relies on pulling aggro to increase threat by shooting multiple targets, threatening stance cptn skill, then using strategist skill, 
-colony deflector to increase your hullcap, your crits, your dmg res and incoming heals
+colony deflector to increase your hullcap, your crits, your dmg res and incoming heals.
 
 Support: Support relies on debuffing your enemies and healing others. Pets with debuff like delta flyers or type 7 shuttles are great
 
 Damage: Dps relies on slotting as much as possible dmg, reducing cd and extending uptime of attack upgrades, haste and piloting
+
+Piloting: Use both mouse buttons pressed at same time to pilot your ship. If you use cannons, stop at 9km from target and shoot. If you use beam arrays,
+fly around non stop, preferably directly below or above targets. If you have low turn rate, try to keep engines at half speed.
 
 # Tips
 If you get shot at, placate the target. 
@@ -100,7 +107,11 @@ Under HUD options, select maintain auto attack. Then turn off autofire on all yo
 
 You will need to aquire ships for stuff they have, not to fly them. Pick ship you like and stay with it, just get other ships stuff for use on your own ship.
 
-Do not rely on 2.5% proc chance anything. Always go for stuff that is per hit. Google everything and look if it's per cycle or per hit, or for a time period.
+Do not rely on 2.5% proc chance anything. 
+
+Always go for stuff that is per hit. 
+
+Google everything and look if it's per cycle or per hit, or for a time period.
 
 Regarding uptime, it would be a good idea to rely on stuff that has high uptime, provided it does decent dmg during it's uptime.
 
