@@ -100,7 +100,9 @@ Under HUD options, select maintain auto attack. Then turn off autofire on all yo
 
 You will need to aquire ships for stuff they have, not to fly them. Pick ship you like and stay with it, just get other ships stuff for use on your own ship.
 
-Do not rely on 2.5% proc chance. Always go for stuff that is per hit.
+Do not rely on 2.5% proc chance anything. Always go for stuff that is per hit. Google everything and look if it's per cycle or per hit, or for a time period.
+
+Regarding uptime, it would be a good idea to rely on stuff that has high uptime, provided it does decent dmg during it's uptime.
 
 Try to login for at least 15 mins a day, if nothing else, just to do events.
 
