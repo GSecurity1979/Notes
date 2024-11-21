@@ -14,7 +14,7 @@ sudo dd if=pathtoiso of=nameofusbdevice(sdb)
 
 I recommend non EFI boot, MBR, go through install process, and when offered additional software, dont pick anything.
 After you reboot, you will see a black screen. This is because no desktop is installed. Press ctrl alt F1 to open terminal.
-After logging in, you can assing root account password. This account is normally not accessible without a password,
+After logging in, you can assign root account password. This account is normally not accessible without a password,
 but if you need it, type in:
 
 ```
@@ -131,7 +131,7 @@ And than edit the file with:
 unmanaged-devices=none
 ```
 
-ctro + o is to save, enter for confirmation and ctrl + x to exit. You can restart a service by typing:
+ctrl + o is to save, enter for confirmation and ctrl + x to exit. You can restart a service by typing:
 
 ```
 sudo service network-manager restart
@@ -239,3 +239,5 @@ Click on white button to select XFCE then login. If you don't like XFCE, add add
 ```
 sudo apt install kubuntu-desktop
 ```
+
+If you need to create a windows drive, using windows iso, use gparted to format the stick, then flag it as boot (nothing else, just boot), then mount windows iso, and copy content to usb.
