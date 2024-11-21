@@ -55,7 +55,7 @@ You may want to stack immunities from all sources. Employ hit 'n' run tactics, d
 
 # Pve
 Pve relies on using either cannons scatter volley or fire at will because shooting multiple targets at once gives most dps. Automated protomatter and active armor hardening
-reputation traits shouls keep you alive because you will also get shot at by multiple targets.
+reputation traits should keep you alive because you will also get shot at by multiple targets.
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
