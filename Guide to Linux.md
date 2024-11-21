@@ -241,3 +241,8 @@ sudo apt install kubuntu-desktop
 ```
 
 If you need to create a windows drive, using windows iso, use gparted to format the stick, then flag it as boot (nothing else, just boot), then mount windows iso, and copy content to usb.
+
+If you're using apt, that means you're on debian based distro. Arch for example uses pac command in manner similar to described above.
+
+If you want to merge your debian install with another one, or install a different debian based distro, you can. 
+Just keep your /home folder to keep your stuff. This is why you should keep /home on a separate, bigger drive.
