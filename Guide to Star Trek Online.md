@@ -3,38 +3,38 @@ Cptn: Any, preferably Alien
 
 Cptn career: Any, for pvp you want sci.
 
-Cptn skills: Everything is good, just some is more useful than others. Distance penalty should be maxed out.
+Cptn skills: https://ibb.co/mv17HJ2
 
 Cptn spec: Temporal primary, strategist secondary.
 
-Cptn traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
+Cptn traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, crits
 
-Space and Ground Traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
+Space and Ground Traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, crits
+
+Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, crits
 
 Ship: Any T6, preferably with 2 experimental upgrades
 
-Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, accuracy, crits
-
 Boffs: watchers or SRO's
 
-Boff Powers: attack pattern omega, emergency power to engines, photonic officer, reverse shield polarity, aux to sif, teams, 
-jam sensors, gravity well, one attack upgrade and polarize hull
+Boff Powers: attack pattern beta, emergency power to engines and weapons, photonic officer, reverse shield polarity, aux to sif, teams, 
+jam sensors, gravity well, attack upgrade(s) and polarize hull
 
 Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse shield polarity, energy officers with crtd or borg
 
 Ship seating: any, for pvp you want cmdr intel
 
-Ship Weapons: any, preferably with crtd mods, try to put cannons or beams in front and 360 weps at the back
+Ship Weapons: any, preferably with crtd mods, try to put cannons or beams or torps in front and 360 weps at the back
 
-Consoles: Assimilated module + haste consoles (fleet power network array, domino, M6 computer), isomags, protomatter consoles 
+Consoles: haste consoles (fleet power network array, domino, M6 computer), isomags, lorca 
 
-Ship gear: fleet core, prevailing fortified engines, colony secondary/deflector and iconian shield
+Ship gear: disco core and shield, prevailing fortified engines, colony secondary/deflector
 
-Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, batteries and romulan Rep consumables.
+Ship devices: deuterium surplus, batteries
 
 Ship Power: If you use energy weps, change to number 3 power view, set power to weapons, lock it, minimize shields, lock it, minimize engines, lock it.
 
-Ground gear: Romulan Imperial Navy kit + Armor, Na'kuhl weapon + shield, plasma piercing rifle (End game you want herald staff)
+Ground gear: Romulan Imperial Navy kit + Armor, Na'kuhl weapon + shield, plasma piercing rifle (End game you want advanced herald projector)
 
 # Dmg calc
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. If you increase weapon power, same. 
@@ -42,14 +42,14 @@ Weapon rarity basically means you have more mods on your weapons. For example, n
 If you add 5 30% +dmg consoles and 5 dmg mods (10% +dmg each), that wep will do 200% more dmg, meaning 3k. If you also do surgical strikes III attack upgrade, 
 for another 300%, it will do 6k. If you also do crit for 100% it will be 800% +dmg on your 1k, meaning 9k dmg. If you also do haste 100%, it will be 18k. 
 If you get 6 weps to do all that, it will be 108k. So, any single source of dmg is usually insufficient. At least get pets. Btw, their shields will stop 90-95% of your dmg. 
-You can disable them, drain them, or bypass them. Weapons with damage over time, like agony phasers, will kill target faster. Weapons spend power. 
+You can disable them, drain them, or bypass them. Weapons with damage over time, like agony phasers or plasma, will kill target faster. Weapons spend power. 
 The moment your 2nd wep fires, it's already doing less dmg because 1st wep drained power.
 
 # Math
-dmg * speed (it is irrelevant if you have +10% dmg or + 10% bonus dmg or +10% dmg mod or +10% crit severity)
+base weapon dmg * weapon power * +dmg * +bonus dmg * attack upgrade or weapon mods * speed -target resists = resulting dmg
 
 # Pvp
-Pvp relies on not being targeted by using intel team, sci stealth consoles, high defense value and surgical strikes for dmg. 
+Pvp relies on not being targeted by using intel team, sci stealth consoles, and surgical strikes for dmg. 
 You may want to disable your enemy first with subnuke and holds. If everything fails, you can use high dmg clickies. Use subnuke first, then holds, any weapon boosts, then SS III.
 You may want to stack immunities from all sources.
 
@@ -58,16 +58,18 @@ https://vger.netlify.app (turn on description search in options in top right)
 
 https://www.reddit.com/r/stobuilds/wiki/math/damage_categories/
 
+https://stowiki.net
+
 # Important
 Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/played" into chat window.
 
 # How to play
-Tanking: Tanking relies on pulling aggro to increase threat by shooting multiple targets, threatening stance cptn skill, then using strategist skill, hull image refractors console,
+Tanking: Tanking relies on pulling aggro to increase threat by shooting multiple targets, threatening stance cptn skill, then using strategist skill, 
 colony deflector to increase your hullcap, your crits, your dmg res and incoming heals
 
-Support: Support relies on debuffing your enemies and healing others. Pets with tachyon beam like delta flyers are great
+Support: Support relies on debuffing your enemies and healing others. Pets with debuff like delta flyers or type 7 shuttles are great
 
-Damage: Dps relies on slotting as much as possible +dmg (cat1) +bonus dmg (crtd), final multipliers (attack upgrades), reducing cd and extending uptime of attack upgrades, haste and piloting
+Damage: Dps relies on slotting as much as possible dmg, reducing cd and extending uptime of attack upgrades, haste and piloting
 
 # Tips
 If you get shot at, placate the target. 
@@ -84,9 +86,9 @@ Try not to double up on boff powers, or use two different attack patterns.
 
 Google each boff power on stowiki, and if it puts other skills on cd, don't use those other skills.
 
-Accuracy is very much important, and so is haste. 
+Haste is very much important
 
-Sometimes only diff between you doing 100k dps and someone doing 300k is their max hit so crits are very much important.
+Sometimes only diff between you doing 100k dps and someone doing 300k is their max hit so crits (even from pets) are very much important.
 
 Avoid EPG builds unless you are in all EPG team because taking out enemy shields both brings dps, and if you don't take out their shields, makes your team job more difficult.
 
@@ -96,11 +98,11 @@ Do all of R&D by doing 20h tasks. At level 15, they will give you nice traits an
 
 Under HUD options, select maintain auto attack. Then turn off autofire on all your ship weps if you enabled it.
 
-Assimilated module + Kinetic cutting beam will give set bonus which will help with your weapon energy drain.
-
-Fleet warp core will also help with power drain.
+You will need to aquire ships for stuff they have, not to fly them. Pick ship you like and stay with it, just get other ships stuff for use on your own ship.
 
 Do not rely on 2.5% proc chance. Always go for stuff that is per hit.
+
+Try to login for at least 15 mins a day, if nothing else, just to do events.
 
 # Space Keybinds
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
