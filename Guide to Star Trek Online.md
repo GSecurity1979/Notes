@@ -18,7 +18,7 @@ Ship: Any T6, preferably with 2 experimental upgrades
 Boffs: watchers or Superior Romulan Operatives
 
 Boff Powers: attack pattern beta, emergency power to engines and weapons, photonic officer, reverse shield polarity, aux to sif, teams, 
-jam sensors, gravity well, attack upgrade(s) and polarize hull
+jam sensors, tachyon beam (or gravity well), attack upgrade(s) and polarize hull
 
 Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse shield polarity, energy officers with crtd or borg
 
