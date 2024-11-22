@@ -103,7 +103,9 @@ Get all reps maxed out even if you don't need the gear. They will appear in your
 
 Do all of R&D by doing 20h tasks. At level 15, they will give you nice traits and you'll be able to craft nice stuff.
 
-Under HUD options, select maintain auto attack. Then turn off autofire on all your ship weps if you enabled it.
+Under HUD space options, select maintain auto attack and enable never target pets and objects and aoe asisst. All other options off.
+
+You can enable autofire on your hangar and your weps by right clicking on them, but do so in order which weapon recharges fastest is enabled first.
 
 You will need to aquire ships for stuff they have, not to fly them. Pick ship you like and stay with it, just get other ships stuff for use on your own ship.
 
