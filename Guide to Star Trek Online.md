@@ -3,7 +3,7 @@ Cptn: Any, preferably Alien
 
 Cptn career: Any, for pvp you want sci.
 
-Cptn skills: max out target distance penalty reduction, rest as you wish
+Cptn skills: https://ibb.co/GFZthXf https://ibb.co/2ss1x7K
 
 Cptn spec: Temporal primary, strategist secondary.
 
