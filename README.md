@@ -12,15 +12,15 @@ He suggest I should find a girl, and I do, but she runs away after I propose she
 
 I'm being bullied since first day of elementary school, and I sit with a Rom, who everyone is calling gypsy.
 I call him gipsy too, not knowing that's an insult and he takes me to his dad, but I don't remember what happened there, only that I had a sore ass when I left, and that a slim young guy only I could see asked me what happened.
-We go on a train trip with class, someone says Tito is an armored wagon, and us kids climb to locomotive and find nobody there.
+We go on a train trip with class, someone says Tito is in an armored wagon, and us kids climb to locomotive and find nobody there.
 I pull some lever, other kids do some other mess, then I get 2nd thought and return the lever, but Marko Šarin pulls it back.
 We go back to last wagon, where I peek out and see train falling off a bridge in the distance. We all jump out of the train, and that slim young guy appears again, but other kids tell him it was all my fault.
 
 Back at where my parents and me lived, a bunch of people goes into something resembling a celler in a yard in Stadionska cesta. I close the door after they all went in and tell my dad what I did, and he said he went there and locked the door.
 
 War started in Yugoslavia when my country, Croatia, seperated, and my dad, Željko loses his job, because he was working for a Serbian company, and we relied on mom, who was Serbian and worked in cadastre. 
-My 2nd floor neighbour, Dalibor Podrug, gives me a Motorola, and I mention action Maslenica on it, not knowing I shouldn't mention that. I likely tipped off the Serbs, and a lot more people than should died because of my stupidity.
-One autumn, we figured out we will stay out of firewood for the winter, so my dad deciedes to go into Serb occupied teritory for wood, with his Borba truck, and takes me with him.
+My 2nd floor neighbour, Dalibor Podrug, gives me a Motorola, and I mention action Maslenica on it, not knowing I shouldn't mention that. I likely tipped off the Serbs, and a lot more people died because of my stupidity.
+One autumn, we figured out we will stay out of firewood for the winter, so my dad decides to go into Serb occupied teritory for wood, with his Borba truck, and takes me with him.
 Cetnicks stop us, and one of them asks me if I know who he was. I said, I know, you're cetnik! He got pissed off and told me and dad to get out of the truck. They took my dad behind the truck,
 and one of them told me to turn around and concluded I have a nice little head. Next thing I know, we're sitting at Borba truck again, and he asks me again if I knew who he was, but this time
 I say I don't, so they let us go. Dad tells me to stay in the truck while he loaded the firewood, and there were no cetniks on the way back. My dad found his truck torched to the ground one morning.
@@ -52,9 +52,9 @@ A week later, Slavica comes over to my apartment, and ends up accusing me of rap
 and I dump her.
 
 Mom pulls some connections and I enroll Geodesy in Zagreb. My room mates are Žan Glavan, a buddy from elementary school and Filip Fiala, who talks me into trying out gay sex. I never allowed him to nail me, and I couldn't get a hard on on a guy, but I wake up
-with foggy mind and a sore ass. For some reason, I can't figure out what happened. I end up sleeping with a Sandra, Ana Biloglav room mate, who later turned out to be a stripper. I also get assaulted by 2 tall guys with knives while I'm dating a girl, but I run
-away like a coward and never find out what happened to my date. I end up dating Ivana Brusar, who mentions I'm from Zadar in underpass while there were some baddies who follow me on my return, but some cops show up. Anyway I quit on college after 7 months "studying",
-and go back to Zadar.
+with foggy mind and a sore ass. For some reason, I can't figure out what happened. I end up sleeping with a Sandra, Ana Biloglav room mate, who later turned out to be a stripper. Ana also wants to sleep with me, but she has a bf, 
+and I don't wanna do that to some guy. I also get assaulted by 2 tall guys with knives while I'm dating a girl, but I run away like a coward and never find out what happened to my date. 
+I end up dating Ivana Brusar, who mentions I'm from Zadar in underpass while there were some baddies who follow me on my return, but some cops show up. Anyway I quit on college after 7 months "studying", and go back to Zadar.
 
 In Zadar I meet Jadranka Bistričić, whome I deflower first weekend after oath in the army, but I end up raped multiple times in the army, and Jadranka ends up sleeping with everyone I knew.
 
@@ -92,3 +92,17 @@ Someone seems to be breaking or pulling out my teeth from time to time, and one 
 
 I give my dad half my pension, 100 eur for bills and 50 eur for tobacco and I buy everything else I need for myself, like clothes and food, but my shirts, like 6 of them seem to be missing. It also seems someone is stealing tobacco and 
 coffee capsules, and sometimes food I buy. I live with my dad in fear of ending up handicapped and raped because I can't afford a place of my own. I seem to constantly have a black eye but don't remember who punched me.
+
+I end up repaying bank debt for years, then accidentally find out I already repaid it, but ended up a year longer paying it, since nobody gave me the papers I needed. I end up refunded, and buy a 4k tv and a new pc with the money I got back.
+
+My dad seems to be taking money city of zadar was giving to me for firewood and easter, and buys me a bag of potato chips each time he makes a profit at my expense, as some sort of reward without telling me he got my money. 
+He starts abusing me in every legal way possible, does little mischief to me what he can, but accuses me of doing that to him, and tells everyone how bad of a son I am. I conclude he is psycho and email the cops who send 2 cops over but
+decide not to arrest my dad. Dad calls the cops on me too, because I opened front door to see who was in front with a knife in my hand, and I end up taken to hospital where I explain, 100% calm, what happened, but psychiatrist concludes
+I'm agressive because I had a knife when I opened my door and I end up hospitalized for a month.
+
+Internet isn't a nice place for me. People say I'm rapist, pedo, terorrist, everything disgusting possible, and I can't tell if they mean it or are joking, or simple want to slander me because somebody hired them to do so. Everywhere I go,
+I seem to end up analysed, my behaviour sorted out and judged upon by strangers. Everyone seems to live in some sort of delusion I am alien or god or god knows what, and that they are in some big brother or something, but it honestly looks
+like organized crime to me, with people paid by bad guys to spread some sort of narrative. I can't get even my own brain in order, let alone sort out my life or what's happening in the world, but people either think it's my fault, or that
+I will fix all world issues magically or they think putting that kind of thing on my shoulders will either heal me or break me. Truth is, my illness isn't fixable, and what I actually want is for bad guys to end up in prison or dead. 
+And yes, I mean my dad too. My life went beyond repair after I was 4yo, I don't understand why the torture and why everyone seems to think torturing me will help me recover. Both those psychologists and their accomplices belong in prison
+for molesting a mentally ill person. Since I'm still alive after everything you can guess I'm a mule, it's not these assholes torture that helped me with anything.
