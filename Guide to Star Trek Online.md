@@ -46,16 +46,7 @@ You can disable them, drain them, or bypass them. Weapons with damage over time,
 The moment your 2nd wep fires, it's already doing less dmg because 1st wep drained power.
 
 # Math
-base weapon dmg * weapon power * +dmg * +bonus dmg * attack upgrade or weapon mods * speed -target resists = resulting dmg (crtd is regarded as bonus dmg, but it relies on crth)
-
-# Pvp
-Pvp relies on not being targeted by using intel team, sci stealth consoles, and surgical strikes for dmg on a single target. 
-You may want to disable your enemy first with subnuke and holds. If everything fails, you can use high dmg clickies. Use subnuke first, then holds, any weapon boosts, then SS III.
-You may want to stack immunities from all sources. Employ hit 'n' run tactics, don't dogfight till all your powers reset.
-
-# Pve
-Pve relies on using either cannons scatter volley or fire at will because shooting multiple targets at once gives most dps. Automated protomatter and active armor hardening
-reputation traits should keep you alive because you will also get shot at by multiple targets.
+base weapon dmg * weapon power * +dmg(cat1) * +bonus dmg(cat2) * attack upgrade or weapon mods * haste(cat3) -target resists = resulting dmg (crtd is regarded as bonus dmg, but it relies on crth)
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
@@ -68,15 +59,11 @@ https://stowiki.net
 Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/played" into chat window.
 
 # How to play
-Tanking: Tanking relies on pulling aggro to increase threat by shooting multiple targets, threatening stance cptn skill, then using strategist skill, 
-colony deflector to increase your hullcap, your crits, your dmg res and incoming heals.
-
-Support: Support relies on debuffing your enemies and healing others. Pets with debuff like delta flyers or type 7 shuttles are great
-
-Damage: Dps relies on slotting as much as possible dmg, reducing cd and extending uptime of attack upgrades, haste and piloting
 
 Piloting: Use both mouse buttons pressed at same time to pilot your ship. If you use cannons, stop at 9km from target and shoot. If you use beam arrays,
 fly around non stop, preferably directly below or above targets. If you have low turn rate, try to keep engines at half speed.
+
+Pve is mostly about dmg and to multiple targets, while Pvp is about tanking and dmg to single target.
 
 # Tips
 If you get shot at, placate the target. 
@@ -117,7 +104,7 @@ Google everything and look if it's per cycle or per hit, or for a time period.
 
 Regarding uptime, it would be a good idea to rely on stuff that has high uptime, provided it does decent dmg during it's uptime.
 
-Try to login for at least 15 mins a day, if nothing else, just to do events.
+Try to login for at least 15 mins a day, if nothing else, just to do events, preferably an hour to do your daily missions too.
 
 # Space Keybinds
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
