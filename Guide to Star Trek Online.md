@@ -1,4 +1,5 @@
 # Build
+
 Cptn: Any, preferably Alien
 
 Cptn career: Any, for pvp you want sci.
@@ -28,7 +29,7 @@ Ship Weapons: any, preferably with crtd mods, try to put cannons or beams or tor
 
 Consoles: isomags and d.o.m.i.n.o
 
-Ship gear: disco core and shield, prevailing fortified engines, colony secondary/deflector
+Ship gear: fleet core, iconian shield, prevailing fortified engines, colony secondary/deflector
 
 Ship devices: deuterium surplus, batteries
 
@@ -36,19 +37,12 @@ Ship Power: If you use energy weps, change to number 3 power view, set power to 
 
 Ground gear: Romulan Imperial Navy kit + Armor, Na'kuhl weapon + shield, plasma piercing rifle (End game you want advanced herald projector)
 
-# Dmg calc
-Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. If you increase weapon power, same. 
-Weapon rarity basically means you have more mods on your weapons. For example, normal beam at mark XII does 500 dmg and at xv and 75 wep power does 1k dps.
-If you add 5 30% +dmg consoles and 5 dmg mods (10% +dmg each), that wep will do 200% more dmg, meaning 3k. If you also do surgical strikes III attack upgrade, 
-for another 300%, it will do 6k. If you also do crit for 100% it will be 800% +dmg on your 1k, meaning 9k dmg. If you also do haste 100%, it will be 18k. 
-If you get 6 weps to do all that, it will be 108k. So, any single source of dmg is usually insufficient. At least get pets. Btw, their shields will stop 90-95% of your dmg. 
-You can disable them, drain them, or bypass them. Weapons with damage over time, like agony phasers or plasma, will kill target faster. Weapons spend power. 
-The moment your 2nd wep fires, it's already doing less dmg because 1st wep drained power.
-
 # Math
-base weapon dmg * weapon power * +dmg(cat1) * +bonus dmg(cat2) * attack upgrade or weapon mods * haste(cat3) -target resists = resulting dmg (crtd is regarded as bonus dmg, but it relies on crth)
+
+base weapon dmg * weapon power * +dmg(cat1) * +bonus dmg(cat2) * haste(cat3) * attack upgrade/weapon mods(final multipliers) -target resists = resulting dmg (crtd is regarded as bonus dmg, but it relies on crth)
 
 # Where to do research:
+
 https://vger.netlify.app (turn on description search in options in top right)
 
 https://www.reddit.com/r/stobuilds/wiki/math/damage_categories/
@@ -56,6 +50,7 @@ https://www.reddit.com/r/stobuilds/wiki/math/damage_categories/
 https://stowiki.net
 
 # Important
+
 Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/played" into chat window.
 
 # How to play
@@ -66,6 +61,7 @@ fly around non stop, preferably directly below or above targets. If you have low
 Pve is mostly about dmg and to multiple targets, while Pvp is about tanking and dmg to single target.
 
 # Tips
+
 If you get shot at, placate the target. 
 
 Move as fast as you can by triggering your fortified engines with aux to sif, your conn officer from phoenix, epte and evasive maneouvers.
@@ -107,6 +103,7 @@ Regarding uptime, it would be a good idea to rely on stuff that has high uptime,
 Try to login for at least 15 mins a day, if nothing else, just to do events, preferably an hour to do your daily missions too.
 
 # Space Keybinds
+
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
 Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat. Press number 1 once to pull the trigger.
 
@@ -116,6 +113,7 @@ Space "Target_Enemy_Near_ForArc 90$$+trayexecbytray 9 0$$+trayexecbytray 9 2$$+t
 ```
 
 # Ground keybinds
+
 Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type /unbind_all and then /bind_load_file D:\Ground.txt (or path where you saved the file). 
 Assign your abilities to tray 2 and 3, make sure basic weapon fire is in default location (tray 1 slot 1) and keep pressing key 1 during combat. 
 space is for jump and both mouse buttons for sprint.
