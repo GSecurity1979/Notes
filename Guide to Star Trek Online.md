@@ -26,7 +26,7 @@ Ship seating: any, for pvp you want cmdr intel
 
 Ship Weapons: any, preferably with crtd mods, try to put cannons or beams or torps in front and 360 weps at the back
 
-Consoles: haste consoles (fleet power network array, domino, M6 computer), isomags, lorca 
+Consoles: isomags and d.o.m.i.n.o
 
 Ship gear: disco core and shield, prevailing fortified engines, colony secondary/deflector
 
