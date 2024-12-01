@@ -104,6 +104,8 @@ Try to login for at least 15 mins a day, if nothing else, just to do events, pre
 
 Advanced consoles you can only slot 1 type of, so slot ones your ship has most of.
 
+Uni console slot can slot any type of console so get your 3 experimental upgrades to get to x2.
+
 # Space Keybinds
 
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type 
