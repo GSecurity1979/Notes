@@ -102,6 +102,8 @@ Regarding uptime, it would be a good idea to rely on stuff that has high uptime,
 
 Try to login for at least 15 mins a day, if nothing else, just to do events, preferably an hour to do your daily missions too.
 
+Advanced consoles you can only slot 1 type of, so slot ones your ship has most of.
+
 # Space Keybinds
 
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
