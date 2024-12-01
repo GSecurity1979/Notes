@@ -122,11 +122,10 @@ and then
 
 (or the path where you saved the file). 
 
-Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat. Press number 1 once to pull the trigger.
+Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat.
 
 ```
-Space "Target_Enemy_Near_ForArc 90$$+trayexecbytray 9 0$$+trayexecbytray 9 2$$+trayexecbytray 9 4$$+trayexecbytray 9 6$$+trayexecbytray 9 8$$+trayexecbytray 8 0$$+trayexecbytray 8 2$$+trayexecbytray 8 4$$+trayexecbytray 8 6$$+trayexecbytray 8 8$$+trayexecbytray 7 0$$+trayexecbytray 7 2$$+trayexecbytray 7 4$$+trayexecbytray 7 6$$+trayexecbytray 7 8$$+trayexecbytray 6 0$$+trayexecbytray 6 2$$+trayexecbytray 6 4$$+trayexecbytray 6 6$$+trayexecbytray 6 8$$+trayexecbytray 6 9$$+trayexecbytray 6 7$$+trayexecbytray 6 5$$+trayexecbytray 6 3$$+trayexecbytray 6 1$$+trayexecbytray 7 9$$+trayexecbytray 7 7$$+trayexecbytray 7 5$$+trayexecbytray 7 3$$+trayexecbytray 7 1$$+trayexecbytray 8 9$$+trayexecbytray 8 7$$+trayexecbytray 8 5$$+trayexecbytray 8 3$$+trayexecbytray 8 1$$+trayexecbytray 9 9$$+trayexecbytray 9 7$$+trayexecbytray 9 5$$+trayexecbytray 9 3$$+trayexecbytray 9 1$$FireProjectiles"
-1 "FireAll"
+Space "FireAll$$Target_Enemy_Near_ForArc 90$$+trayexecbytray 9 0$$+trayexecbytray 9 2$$+trayexecbytray 9 4$$+trayexecbytray 9 6$$+trayexecbytray 9 8$$+trayexecbytray 8 0$$+trayexecbytray 8 2$$+trayexecbytray 8 4$$+trayexecbytray 8 6$$+trayexecbytray 8 8$$+trayexecbytray 7 0$$+trayexecbytray 7 2$$+trayexecbytray 7 4$$+trayexecbytray 7 6$$+trayexecbytray 7 8$$+trayexecbytray 6 0$$+trayexecbytray 6 2$$+trayexecbytray 6 4$$+trayexecbytray 6 6$$+trayexecbytray 6 8$$+trayexecbytray 6 9$$+trayexecbytray 6 7$$+trayexecbytray 6 5$$+trayexecbytray 6 3$$+trayexecbytray 6 1$$+trayexecbytray 7 9$$+trayexecbytray 7 7$$+trayexecbytray 7 5$$+trayexecbytray 7 3$$+trayexecbytray 7 1$$+trayexecbytray 8 9$$+trayexecbytray 8 7$$+trayexecbytray 8 5$$+trayexecbytray 8 3$$+trayexecbytray 8 1$$+trayexecbytray 9 9$$+trayexecbytray 9 7$$+trayexecbytray 9 5$$+trayexecbytray 9 3$$+trayexecbytray 9 1$$FireProjectiles"
 ```
 
 # Ground keybinds
