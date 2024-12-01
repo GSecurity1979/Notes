@@ -108,11 +108,15 @@ Advanced consoles you can only slot 1 type of, so slot ones your ship has most o
 
 Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type 
 
-```/unbind_all```
+```
+/unbind_all
+```
 
 and then 
 
-```/bind_load_file D:\Space.txt```
+```
+/bind_load_file D:\Space.txt
+```
 
 (or the path where you saved the file). 
 
@@ -127,10 +131,15 @@ Space "Target_Enemy_Near_ForArc 90$$+trayexecbytray 9 0$$+trayexecbytray 9 2$$+t
 
 Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type 
 
-```/unbind_all```
+```
+/unbind_all
+```
+
 and then 
 
-```/bind_load_file D:\Ground.txt```
+```
+/bind_load_file D:\Ground.txt
+```
 
 (or path where you saved the file). 
 Assign your abilities to tray 2 and 3, make sure basic weapon fire is in default location (tray 1 slot 1) and keep pressing key 1 during combat. 
