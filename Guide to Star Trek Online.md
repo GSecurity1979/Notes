@@ -27,7 +27,7 @@ Ship seating: any, for pvp you want cmdr intel
 
 Ship Weapons: any, preferably with crtd mods, try to put cannons or beams or torps in front and 360 weps at the back
 
-Consoles: isomags and d.o.m.i.n.o
+Consoles: isomags, fel'khri torment engine, genesis seed
 
 Ship gear: fleet core, iconian shield, prevailing fortified engines, colony secondary/deflector
 
