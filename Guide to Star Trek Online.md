@@ -106,7 +106,16 @@ Advanced consoles you can only slot 1 type of, so slot ones your ship has most o
 
 # Space Keybinds
 
-Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type `/unbind_all` and then `/bind_load_file D:\Space.txt` (or the path where you saved the file). 
+Copy the following in notepad and save as `Space.txt`. Then while you are in space in STO, type 
+
+```/unbind_all```
+
+and then 
+
+```/bind_load_file D:\Space.txt```
+
+(or the path where you saved the file). 
+
 Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat. Press number 1 once to pull the trigger.
 
 ```
@@ -116,9 +125,16 @@ Space "Target_Enemy_Near_ForArc 90$$+trayexecbytray 9 0$$+trayexecbytray 9 2$$+t
 
 # Ground keybinds
 
-Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type /unbind_all and then /bind_load_file D:\Ground.txt (or path where you saved the file). 
+Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type 
+
+```/unbind_all```
+and then 
+
+```/bind_load_file D:\Ground.txt```
+
+(or path where you saved the file). 
 Assign your abilities to tray 2 and 3, make sure basic weapon fire is in default location (tray 1 slot 1) and keep pressing key 1 during combat. 
-space is for jump and both mouse buttons for sprint.
+Space is for jump and both mouse buttons for sprint.
  
 ```
 1 "LootRollNeed$$CombatLog 1$$+TrayExecByTray 2 0$$+TrayExecByTray 2 1$$+TrayExecByTray 2 2$$+TrayExecByTray 2 3$$+TrayExecByTray 2 4$$+TrayExecByTray 2 5$$+TrayExecByTray 2 6$$+TrayExecByTray 2 7$$+TrayExecByTray 2 8$$+TrayExecByTray 2 9$$+TrayExecByTray 1 0$$+TrayExecByTray 1 1$$+TrayExecByTray 1 2$$+TrayExecByTray 1 3$$+TrayExecByTray 1 4$$+TrayExecByTray 1 5$$+TrayExecByTray 1 6$$+TrayExecByTray 1 7$$+TrayExecByTray 1 8$$+TrayExecByTray 1 9$$+TrayExecByTray 0 0$$+TrayExecByTray 1 9$$+TrayExecByTray 1 8$$+TrayExecByTray 1 7$$+TrayExecByTray 1 6$$+TrayExecByTray 1 5$$+TrayExecByTray 1 4$$+TrayExecByTray 1 3$$+TrayExecByTray 1 2$$+TrayExecByTray 1 1$$+TrayExecByTray 1 0$$+TrayExecByTray 2 9$$+TrayExecByTray 2 8$$+TrayExecByTray 2 7$$+TrayExecByTray 2 6$$+TrayExecByTray 2 5$$+TrayExecByTray 2 4$$+TrayExecByTray 2 3$$+TrayExecByTray 2 2$$+TrayExecByTray 2 1$$+TrayExecByTray 2 0$$"
