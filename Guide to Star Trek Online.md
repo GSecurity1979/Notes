@@ -114,7 +114,7 @@ fleet eclipse
 
 fleet jupiter
 
-legendary ambasaddor
+legendary ambassador
 
 T'Laru
 
