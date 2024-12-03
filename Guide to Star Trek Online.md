@@ -58,54 +58,6 @@ Use both mouse buttons pressed at same time to pilot your ship. If you use canno
 fly around non stop, preferably directly below or above targets. If you have low turn rate, try to keep engines at half speed.
 Pve is mostly about dmg and to multiple targets, while Pvp is about dmg to single target. Both require tanking tho pvp doesn't require much dps.
 
-# Tips
-
-If you get shot at, placate the target. 
-
-Move as fast as you can by triggering your fortified engines with aux to sif, your conn officer from phoenix, epte and evasive maneouvers.
-
-Your tac, sci and eng seat number 1 should have team power so you can clear debuffs (plus polarize hull).
-
-Without subnuke, you will always be subpar in pvp.
-
-Try to extend uptime and reduce cd of your attack upgrade, it is essential for high dps required for elite content.
-
-Try not to double up on boff powers, or use two different attack patterns. 
-
-Google each boff power on stowiki, and if it puts other skills on cd, don't use those other skills.
-
-Haste is very much important
-
-Sometimes only diff between you doing 100k dps and someone doing 300k is their max hit so crits (even from pets) are very much important.
-
-Avoid EPG builds unless you are in all EPG team because taking out enemy shields both brings dps, and if you don't take out their shields, makes your team job more difficult.
-
-Get all reps maxed out even if you don't need the gear. They will appear in your passives and you may need the traits, ship modules and respecs.
-
-Do all of R&D by doing 20h tasks. At level 15, they will give you nice traits and you'll be able to craft nice stuff.
-
-Under HUD space options, select maintain auto attack and enable never target pets and objects and aoe asisst. All other options off.
-
-You can enable autofire on your hangar and your weps by right clicking on them, but do so in order which weapon recharges fastest is enabled first.
-
-You will need to aquire ships for stuff they have, not to fly them. Pick ship you like and stay with it, just get other ships stuff for use on your own ship.
-
-Do not rely on 2.5% proc chance anything. 
-
-Always go for stuff that is per hit. 
-
-Google everything and look if it's per cycle or per hit, or for a time period.
-
-Regarding uptime, it would be a good idea to rely on stuff that has high uptime, provided it does decent dmg during it's uptime.
-
-Try to login for at least 15 mins a day, if nothing else, just to do events, preferably an hour to do your daily missions too.
-
-Advanced consoles you can only slot 1 type of, so slot ones your ship has most of.
-
-Uni console slot can slot any type of console so get your 3 experimental upgrades to get to x2.
-
-If you buy cstore version of a fleet ship, you can get fleet version for only 1 module and each rep you finish will reward you 1 module.
-
 # Traits that are nice to have
 
 # starship:
@@ -177,6 +129,54 @@ plasmatic bioturret (if you use plasma)
 terran reputation weapons (if you use phaser)
 
 maco engine and gamma singularity core (for doing tour the galaxy daily mission)
+
+# Tips
+
+If you get shot at, placate the target. 
+
+Move as fast as you can by triggering your fortified engines with aux to sif, your conn officer from phoenix, epte and evasive maneouvers.
+
+Your tac, sci and eng seat number 1 should have team power so you can clear debuffs (plus polarize hull).
+
+Without subnuke, you will always be subpar in pvp.
+
+Try to extend uptime and reduce cd of your attack upgrade, it is essential for high dps required for elite content.
+
+Try not to double up on boff powers, or use two different attack patterns. 
+
+Google each boff power on stowiki, and if it puts other skills on cd, don't use those other skills.
+
+Haste is very much important
+
+Sometimes only diff between you doing 100k dps and someone doing 300k is their max hit so crits (even from pets) are very much important.
+
+Avoid EPG builds unless you are in all EPG team because taking out enemy shields both brings dps, and if you don't take out their shields, makes your team job more difficult.
+
+Get all reps maxed out even if you don't need the gear. They will appear in your passives and you may need the traits, ship modules and respecs.
+
+Do all of R&D by doing 20h tasks. At level 15, they will give you nice traits and you'll be able to craft nice stuff.
+
+Under HUD space options, select maintain auto attack and enable never target pets and objects and aoe asisst. All other options off.
+
+You can enable autofire on your hangar and your weps by right clicking on them, but do so in order which weapon recharges fastest is enabled first.
+
+You will need to aquire ships for stuff they have, not to fly them. Pick ship you like and stay with it, just get other ships stuff for use on your own ship.
+
+Do not rely on 2.5% proc chance anything. 
+
+Always go for stuff that is per hit. 
+
+Google everything and look if it's per cycle or per hit, or for a time period.
+
+Regarding uptime, it would be a good idea to rely on stuff that has high uptime, provided it does decent dmg during it's uptime.
+
+Try to login for at least 15 mins a day, if nothing else, just to do events, preferably an hour to do your daily missions too.
+
+Advanced consoles you can only slot 1 type of, so slot ones your ship has most of.
+
+Uni console slot can slot any type of console so get your 3 experimental upgrades to get to x2.
+
+If you buy cstore version of a fleet ship, you can get fleet version for only 1 module and each rep you finish will reward you 1 module.
 
 # Space Keybinds
 
