@@ -171,8 +171,11 @@ T'Laru
 # lobi:
 
 altamid 2pc (if you use plasma)
+
 plasmatic bioturret (if you use plasma)
+
 terran reputation weapons (if you use phaser)
+
 maco engine and gamma singularity core (for doing tour the galaxy daily mission)
 
 # Space Keybinds
