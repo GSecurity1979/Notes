@@ -16,18 +16,16 @@ Ship traits: +dmg, +bonus dmg, +haste, +maybe something to save your ass, crits
 
 Ship: Any T6, preferably with 2 experimental upgrades
 
-Boffs: watchers or Superior Romulan Operatives
+Boffs: Watchers or Superior Romulan Operatives
 
-Boff Powers: attack pattern beta, emergency power to engines and weapons, photonic officer, reverse shield polarity, aux to sif, teams, 
-jam sensors, tachyon beam (or gravity well), attack upgrade(s) and polarize hull
+Boff Powers: attack pattern beta, emergency power to engines and weapons, photonic officer, reverse shield polarity, aux to sif, 
+gravity well, attack upgrade(s).  
 
 Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse shield polarity, energy officers with crtd or borg
 
 Ship seating: any, for pvp you want cmdr intel
 
 Ship Weapons: any, preferably with crtd mods, try to put cannons or beams or torps in front and 360 weps at the back
-
-Consoles: fel'khri torment engine, genesis seed and gemini device
 
 Ship gear: fleet core, iconian shield, prevailing fortified engines, colony secondary/deflector
 
@@ -36,6 +34,7 @@ Ship devices: deuterium surplus, batteries
 Ship Power: If you use energy weps, change to number 3 power view, set power to weapons, lock it, minimize shields, lock it, minimize engines, lock it.
 
 Ground gear: Romulan Imperial Navy kit + Armor, Na'kuhl weapon + shield, plasma piercing rifle (End game you want advanced herald projector)
+
 
 # Math
 
@@ -55,10 +54,9 @@ Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/play
 
 # How to play
 
-Piloting: Use both mouse buttons pressed at same time to pilot your ship. If you use cannons, stop at 9km from target and shoot. If you use beam arrays,
+Use both mouse buttons pressed at same time to pilot your ship. If you use cannons, stop at 9km from target and shoot. If you use beam arrays,
 fly around non stop, preferably directly below or above targets. If you have low turn rate, try to keep engines at half speed.
-
-Pve is mostly about dmg and to multiple targets, while Pvp is about tanking and dmg to single target.
+Pve is mostly about dmg and to multiple targets, while Pvp is about dmg to single target. Both require tanking tho pvp doesn't require much dps.
 
 # Tips
 
@@ -105,6 +103,61 @@ Try to login for at least 15 mins a day, if nothing else, just to do events, pre
 Advanced consoles you can only slot 1 type of, so slot ones your ship has most of.
 
 Uni console slot can slot any type of console so get your 3 experimental upgrades to get to x2.
+
+If you buy cstore version of a fleet ship, you can get fleet version for only 1 module and each rep you finish will reward you 1 module.
+
+# Traits that are nice to have
+
+starship:
+
+give your all (r&d eng lvl 15)
+carrier wave shield hacking (exchange, if you fly an intel ship)
+punch it (exchange)
+unconventional tactics (exchange)
+
+space:
+
+terran targeting systems (exchange)
+whole lotta x's (exchange)
+repair crews (exchange)
+reconstructive radiation (exchange)
+
+ground:
+
+viscious (exchange)
+
+# Ships you should obtain:
+
+cstore:
+
+sommerville (for spore infused anomalies trait)
+arbiter (for emergency weapons cycle trait)
+premonition (for gemini device console)
+clarke (for genesis seed console)
+ahwahnee (for fleet power network console and type 7 shuttles)
+
+lockbox:
+
+gorn pilot hunter (for experimental weapon, complex plasma fires trait, gorn plasma quad cannon and lure team command console) (this ship only if you plan to use plasma weps)
+credence (for dilithium transporter console)
+
+to actually fly:
+
+hydra
+fleet soyuz
+fleet eclipse
+fleet jupiter
+legendary ambasaddor
+T'Laru
+
+# Nice to have gear
+
+lobi:
+
+altamid 2pc (if you use plasma)
+plasmatic bioturret (if you use plasma)
+terran reputation weapons (if you use phaser)
+maco engine and gamma singularity core (for doing tour the galaxy daily mission)
 
 # Space Keybinds
 
