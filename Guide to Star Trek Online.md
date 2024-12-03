@@ -108,7 +108,7 @@ If you buy cstore version of a fleet ship, you can get fleet version for only 1 
 
 # Traits that are nice to have
 
-starship:
+# starship:
 
 give your all (r&d eng lvl 15)
 
@@ -118,7 +118,7 @@ punch it (exchange)
 
 unconventional tactics (exchange)
 
-space:
+# space:
 
 terran targeting systems (exchange)
 
@@ -128,13 +128,13 @@ repair crews (exchange)
 
 reconstructive radiation (exchange)
 
-ground:
+# ground:
 
 viscious (exchange)
 
 # Ships you should obtain:
 
-cstore:
+# cstore:
 
 sommerville (for spore infused anomalies trait)
 
@@ -146,13 +146,13 @@ clarke (for genesis seed console)
 
 ahwahnee (for fleet power network console and type 7 shuttles)
 
-lockbox:
+# lockbox:
 
 gorn pilot hunter (for experimental weapon, complex plasma fires trait, gorn plasma quad cannon and lure team command console) (this ship only if you plan to use plasma weps)
 
 credence (for dilithium transporter console)
 
-to actually fly:
+# to actually fly:
 
 hydra
 
@@ -168,7 +168,7 @@ T'Laru
 
 # Nice to have gear
 
-lobi:
+# lobi:
 
 altamid 2pc (if you use plasma)
 plasmatic bioturret (if you use plasma)
