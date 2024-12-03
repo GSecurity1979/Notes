@@ -111,15 +111,21 @@ If you buy cstore version of a fleet ship, you can get fleet version for only 1 
 starship:
 
 give your all (r&d eng lvl 15)
+
 carrier wave shield hacking (exchange, if you fly an intel ship)
+
 punch it (exchange)
+
 unconventional tactics (exchange)
 
 space:
 
 terran targeting systems (exchange)
+
 whole lotta x's (exchange)
+
 repair crews (exchange)
+
 reconstructive radiation (exchange)
 
 ground:
@@ -131,23 +137,33 @@ viscious (exchange)
 cstore:
 
 sommerville (for spore infused anomalies trait)
+
 arbiter (for emergency weapons cycle trait)
+
 premonition (for gemini device console)
+
 clarke (for genesis seed console)
+
 ahwahnee (for fleet power network console and type 7 shuttles)
 
 lockbox:
 
 gorn pilot hunter (for experimental weapon, complex plasma fires trait, gorn plasma quad cannon and lure team command console) (this ship only if you plan to use plasma weps)
+
 credence (for dilithium transporter console)
 
 to actually fly:
 
 hydra
+
 fleet soyuz
+
 fleet eclipse
+
 fleet jupiter
+
 legendary ambasaddor
+
 T'Laru
 
 # Nice to have gear
