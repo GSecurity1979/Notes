@@ -25,7 +25,7 @@ Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse
 
 Ship seating: any, for pvp you want cmdr intel
 
-Ship Weapons: any, preferably with crtd mods, try to put cannons or beams or torps in front and 360 weps at the back
+Ship Weapons: any, preferably with dmg mods, try to put cannons or beams or torps in front and 360 weps at the back
 
 Ship gear: fleet core, iconian shield, prevailing fortified engines, colony secondary/deflector
 
@@ -38,7 +38,7 @@ Ground gear: Romulan Imperial Navy kit + Armor, Na'kuhl weapon + shield, plasma 
 
 # Math
 
-base weapon dmg * weapon power * +dmg(cat1) * +bonus dmg(cat2) * haste(cat3) * attack upgrade/weapon mods(final multipliers) -target resists = resulting dmg (crtd is regarded as bonus dmg, but it relies on crth)
+base weapon dmg * weapon power * +dmg(cat1) * +bonus dmg(cat2) * haste(cat3) * attack upgrade/weapon mods(final multipliers) -target resists = resulting dmg
 
 # Where to do research:
 
@@ -135,8 +135,6 @@ maco engine and gamma singularity core (for doing tour the galaxy daily mission)
 If you get shot at, placate the target. 
 
 Move as fast as you can by triggering your fortified engines with aux to sif, your conn officer from phoenix, epte and evasive maneouvers.
-
-Your tac, sci and eng seat number 1 should have team power so you can clear debuffs (plus polarize hull).
 
 Without subnuke, you will always be subpar in pvp.
 
