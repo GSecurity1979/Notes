@@ -24,8 +24,8 @@ and ntlite really isn't a tool for debloat, mostly for configuration.
 So, once you got macky reddy iso and store esd downloaded, convert the store esd to iso via dism++. 
 It's an option under it's file menu. Then, mount the iso, and use copy files from it to a new folder on your c drive.
 Then, use official free current NTLite to navigate to that folder, mount it with ntlite, 
-and use my preset "ntlitenew install" on it. 23H2 still installs old net 3.5 while it seems 24H2 no longer supports it.
-When new ntlite is done, close it, and repeat the process in old ntlite, ver 1.5. I got cracked version from piratebay.
+and use my preset "ntlitenew install" on it. NTLite is bugged and doesn't install net 3.5, but you can use dism++ to add the package from sources/sxs folder.
+When new ntlite is done, close it, and repeat the process in old ntlite, ver 1.5.
 This old version has two important things. First, no restriction on windows you can use it on, and second, 
 security update backups cleanup. Run the same iso with my ntliteold install preset.
 For the time being, you don't have to do any boot.wim debloating, as you will be using macky reddy boot.wim.
@@ -34,7 +34,7 @@ Then, use winreducer EX-110, current, to mount the same iso. Just navigate to to
 And, of course, use my preset.
 
 After that is done, you should mount macky reddy iso, copy files from it to a new folder in c drive, 
-delete install.esd if present in sources folder, then copy install.wim from your ntlite and winreducer debloatd install.wim
+delete install.esd if present in sources folder, then copy install.wim from your ntlite and winreducer debloated install.wim
 to this 2nd folder sources subfolder.
 
 Then, open any ntlite, open this 2nd folder for editing, and recompress the install.wim, then convert it to esd, and replace the
