@@ -106,3 +106,6 @@ like organized crime to me, with people paid by bad guys to spread some sort of 
 I will fix all world issues magically or they think putting that kind of thing on my shoulders will either heal me or break me. Truth is, my illness isn't fixable, and what I actually want is for bad guys to end up in prison or dead. 
 And yes, I mean my dad too. My life went beyond repair after I was 4yo, I don't understand why the torture and why everyone seems to think torturing me will help me recover. Both those psychologists and their accomplices belong in prison
 for molesting a mentally ill person. Since I'm still alive after everything you can guess I'm a mule, it's not these assholes torture that helped me with anything.
+
+If you're watching me or my desktop on some kind of stream and you think I'm a player in some tv show, it's not the truth. You are witnessing organised crime and should report it to police or FBI. Even if you see a crowd of people watching,
+it is fake. Or maybe, organised crime disguised as some sort of show. Please report it to police.
