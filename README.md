@@ -102,4 +102,4 @@ I'm agressive because I had a knife when I opened my door and I end up hospitali
 
 20y+ later I find out schizofrenia was caused to me by police, because I was googling pedo stuff. They also made me rat on my best friends dad, one cop slept with Jadranka on the count of claiming he was my friend, and they hypnoed me and
 ordered me to work on security, so I got a job as a security guard, and custom windows I create they infect and through my work get other people in prison. They also made me break up with every gf I ever had and forced me to stay single for
-almost 10y now. They're also actively preventing me from finding a new gf by telling people bad things about me. They follow me everywhere online I go and instruct people how to deal with me.
+almost 10y now. They're also actively preventing me from finding a new gf by telling people bad things about me. They follow me everywhere online I go and instruct people how to deal with me. They basically made me their slave.
