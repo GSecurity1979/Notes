@@ -100,12 +100,6 @@ He starts abusing me in every legal way possible, does little mischief to me wha
 decide not to arrest my dad. Dad calls the cops on me too, because I opened front door to see who was in front with a knife in my hand, and I end up taken to hospital where I explain, 100% calm, what happened, but psychiatrist concludes
 I'm agressive because I had a knife when I opened my door and I end up hospitalized for a month.
 
-Internet isn't a nice place for me. People say I'm rapist, pedo, terorrist, everything disgusting possible, and I can't tell if they mean it or are joking, or simple want to slander me because somebody hired them to do so. Everywhere I go,
-I seem to end up analysed, my behaviour sorted out and judged upon by strangers. Everyone seems to live in some sort of delusion I am alien or god or god knows what, and that they are in some big brother or something, but it honestly looks
-like organized crime to me, with people paid by bad guys to spread some sort of narrative. I can't get even my own brain in order, let alone sort out my life or what's happening in the world, but people either think it's my fault, or that
-I will fix all world issues magically or they think putting that kind of thing on my shoulders will either heal me or break me. Truth is, my illness isn't fixable, and what I actually want is for bad guys to end up in prison or dead. 
-And yes, I mean my dad too. My life went beyond repair after I was 4yo, I don't understand why the torture and why everyone seems to think torturing me will help me recover. Both those psychologists and their accomplices belong in prison
-for molesting a mentally ill person. Since I'm still alive after everything you can guess I'm a mule, it's not these assholes torture that helped me with anything.
-
-If you're watching me or my desktop on some kind of stream and you think I'm a player in some tv show, it's not the truth. You are witnessing organised crime and should report it to police or FBI. Even if you see a crowd of people watching,
-it is fake. Or maybe, organised crime disguised as some sort of show. Please report it to police.
+20y+ later I find out schizofrenia was caused to me by police, because I was googling pedo stuff. They also made me rat on my best friends dad, one cop slept with Jadranka on the count of claiming he was my friend, and they hypnoed me and
+ordered me to work on security, so I got a job as a security guard, and custom windows I create they infect and through my work get other people in prison. They also made me break up with every gf I ever had and forced me to stay single for
+almost 10y now. They're also actively preventing me from finding a new gf by telling people bad things about me. They follow me everywhere online I go and instruct people how to deal with me.
