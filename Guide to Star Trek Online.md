@@ -25,7 +25,7 @@ Doffs: emergency conn hologram (from phoenix), fabrication eng to extend reverse
 
 Ship seating: any, for pvp you want cmdr intel
 
-Ship Weapons: any, preferably with dmg mods, try to put cannons or beams or torps in front and 360 weps at the back
+Ship Weapons: any, preferably with dmg (or crtd if your crth is high) mods, try to put cannons or beams or torps in front and 360 weps at the back
 
 Ship gear: fleet core, iconian shield, prevailing fortified engines, colony secondary/deflector
 
