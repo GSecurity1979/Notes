@@ -106,3 +106,5 @@ Internet isn't a nice place for me. People say I'm rapist, pedo, terorrist, ever
 and they hypnoed me and ordered me to work on security, so I got a job as a security guard, and custom windows I create they infect and through my work get other people in prison. 
 They also made me break up with every gf I ever had and forced me to stay single for almost 10y now. They're also actively preventing me from finding a new gf by telling people bad things about me. 
 They follow me everywhere online I go and instruct people how to deal with me. They also tried forcing me into killing my father. They basically made me their slave.
+
+Last time I was raped was a week ago, and if I think they infected me with something very bad this time.
