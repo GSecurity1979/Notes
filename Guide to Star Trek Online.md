@@ -118,6 +118,10 @@ legendary ambassador
 
 T'Laru
 
+Damar
+
+Ghemor
+
 # Nice to have gear
 
 # lobi:
